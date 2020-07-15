@@ -559,8 +559,6 @@
       <requirement
           name="net.sf.eclipsecs.feature.group"/>
       <requirement
-          name="constellation.feature.feature.group"/>
-      <requirement
           name="edu.mit.eecs.javatutor.feature.group"/>
       <requirement
           name="edu.mit.eecs.parserlib.edit.feature.feature.group"/>
