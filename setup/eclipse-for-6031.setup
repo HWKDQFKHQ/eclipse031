@@ -571,8 +571,6 @@
       <repository
           url="https://checkstyle.github.io/eclipse-cs/update"/>
       <repository
-          url="https://constellation.csail.mit.edu/install"/>
-      <repository
           url="http://javatutor.csail.mit.edu/"/>
       <repository
           url="http://6031.mit.edu/parserlib/eclipse"/>
